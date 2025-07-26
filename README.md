@@ -1,4 +1,4 @@
-# AI/ML Internship Tasks – DevelopersHub
+# AI/ML Tasks
 
 This repository contains my completed tasks for the DevelopersHub AI/ML Engineering Internship.
 
