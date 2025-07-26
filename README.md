@@ -1,6 +1,6 @@
 # AI/ML Tasks
 
-This repository contains my completed tasks for the DevelopersHub AI/ML Engineering Internship.
+This repository contains my completed tasks AI/ML Internship.
 
 ## Completed Tasks:
 ### Task 1: Exploring the Iris Dataset
