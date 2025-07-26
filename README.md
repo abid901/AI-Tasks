@@ -20,6 +20,6 @@ This repository contains my completed tasks for the DevelopersHub AI/ML Engineer
 - Added optional safety filters to avoid harmful advice
 - Tested with real questions like "What causes a sore throat?"
 
-## 📚 Notes
+## Notes
 These notebooks were built in Jupyter using Python libraries like pandas, sklearn, matplotlib, seaborn, yfinance, and OpenAI.
 
