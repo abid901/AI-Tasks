@@ -1,6 +1,6 @@
 # AI/ML Tasks
 
-This repository contains my completed tasks AI/ML Internship.
+This repository contains my AI/ML completed tasks.
 
 ## Completed Tasks:
 ### Task 1: Exploring the Iris Dataset
